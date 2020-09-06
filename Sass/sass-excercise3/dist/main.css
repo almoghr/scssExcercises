@@ -1,0 +1,32 @@
+img {
+  border-radius: 3px;
+}
+
+h1 {
+  color: black;
+}
+
+h2 {
+  color: black;
+}
+
+h3 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+a {
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+}
+
+.market-block .block-header:hover:after {
+  content: " ";
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,29 @@
+@import "colors.scss";
+
+img {
+    border-radius: 3px;
+}
+
+h1{
+    color: $font-color;
+}
+
+h2{
+    color: $font-color;
+}
+
+h3{
+    color: $font-color;
+}
+
+p{
+    color: $font-color;
+}
+
+a{
+    color: $font-color;
+    &:hover{
+        text-decoration: none;
+    }
+}
+

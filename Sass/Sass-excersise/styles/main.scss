@@ -1,0 +1,17 @@
+$fontSize: 18px;
+$background: red;
+
+body{
+    font-size: $fontSize;
+    background: $background;
+}
+
+div{
+    @extend body;
+}
+
+p{
+    font-size: $fontSize;
+}
+
+@import "header";
